@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Hardware Repair",
+    "description": "Repairing all types of computer hardware.",
+    "image": "https://zoorepairs.com.au/wp-content/uploads/2016/02/Computer-Repairs-Final.png"
+  },
+  {
+    "id": 2,
+    "name": "Virus Removal",
+    "description": "Detectiong & removal of all types of viruses, trojan and malware.",
+    "image": "http://www.greenvillevirusexperts.com/wp-content/uploads/2015/02/Virus_Free_No_Viruses_No_Spyware.jpg"
+  },
+  {
+    "id": 3,
+    "name": "System Tuneup",
+    "description": "Getting your computer back in shape in no time!",
+    "image": "http://pctuneupcenter.com/wordpress/wp-content/uploads/2013/07/System_Mechanic_Fix.jpg"
+  }
+]
